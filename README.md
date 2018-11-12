@@ -1,2 +1,4 @@
 # cs376 lab 11
-master readme
+editing the read me file
+
+second committ
